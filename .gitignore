@@ -8,10 +8,3 @@ __pycache__/
 # Data & Models (large files)
 data/
 models/
-
-# Results (graphs)
-results/
-
-# PPT temp files
-~$*.pptx
-*.pptx
