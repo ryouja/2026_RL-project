@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & Models (large files)
+data/
+models/
+
+# Results (graphs)
+results/
+
+# PPT temp files
+~$*.pptx
+*.pptx
